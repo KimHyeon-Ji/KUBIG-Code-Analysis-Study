@@ -13,6 +13,7 @@
 
 
 ## 🙋‍♀️ 발표자 14기 제갈예빈
-+ 데이터 셋: 
++ 데이터 셋: [Porto Seguro's Safe Driver Prediction](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction/data)
 + 참고 커널
-  
+
+  - [Data Preparation & Exploration](https://www.kaggle.com/bertcarremans/data-preparation-exploration)
