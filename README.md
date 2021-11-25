@@ -30,7 +30,7 @@ KUBIG 13, 14기가 모여 캐글 커널들을 필사하며 같이 분석하고 �
 |:---:|:---|:---|:---| 
 |1주차|2021년 9월 9일|오티 및 첫 회의||
 |2주차|2021년 9월 16일|Binary/Multi-class classification|김현지, 제갈예빈|
-|3주차|2021년 9월 23일|Image classification, Speech Classification, Multi-class classification|임형우, 김종민, 남이량|
+|3주차|2021년 9월 23일|Image classification, Speech classification, Multi-class classification|임형우, 김종민, 남이량|
 |4주차|2021년 9월 30일|Regression|전보민, 임혜리, 김유민|
 |5주차|2021년 11월 4일|Object segmentation  & Visualization|전보민, 김종민|
 |6주차|2021년 11월 11일|Natural language processing|남이량, 김유민|
