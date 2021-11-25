@@ -18,11 +18,11 @@ KUBIG 13, 14기가 모여 캐글 커널들을 필사하며 같이 분석하고 �
 |:---:|:---:|:---:| 
 |13기|김현지|[KimHyeon-Ji](https://github.com/KimHyeon-Ji)|
 ||전보민||
-|14기|김유민||
+|14기|김유민|[miniminii](https://github.com/miniminii)|
 ||김종민|[jongmkim](https://github.com/jongmkim)|
 ||남이량|[starnam11](https://github.com/starnam11)|
 ||임형우|[RetepMil](https://github.com/RetepMil)|
-||임혜리||
+||임혜리|[hyerimir](https://github.com/hyerimir)|
 ||제갈예빈||
 
 ## 📚 Curriculum
